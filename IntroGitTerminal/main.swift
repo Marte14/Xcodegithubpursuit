@@ -8,5 +8,20 @@
 
 import Foundation
 
-print("Hello, World!")
+
+
+let day = "friday"
+
+if day == "friday"{
+    print("the weekend is here")
+}else {
+    print("Pursuit happiness")
+}
+
+//TODO ; practice writing switch statements
+
+
+//TODO ; practice writing tuples
+
+
 
